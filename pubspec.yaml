@@ -1,0 +1,8 @@
+name: custom_button
+description: A custom button using composition with paper-button
+dependencies:
+    polymer: ">=0.15.0 < 0.16.0"
+    paper_elements: ">=0.4.0 <0.5.0"
+transformers:
+- polymer:
+    entry_points:
